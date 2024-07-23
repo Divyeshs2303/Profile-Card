@@ -1,3 +1,3 @@
 # Profile-Card
 
-![image alt] (https://github.com/Divyeshs2303/Profile-Card/blob/main/profile-card.png?raw=true)
+![profile-card](https://github.com/user-attachments/assets/108695f3-1d50-42b2-8075-8b1bc7dba1ea)
